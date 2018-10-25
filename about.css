@@ -1,0 +1,24 @@
+.social-image{
+    width:50px;
+    justify-content:center;
+    
+}
+
+.container{
+    display: flex;
+    
+}
+
+.menu{
+    width:55%; 
+}
+
+.header{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 75px;
+}
+
+body{
+    background-color: gray;
+    
+}
