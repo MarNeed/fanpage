@@ -1,5 +1,5 @@
 .social-image{
-    width:50px;
+    width:155px;
     justify-content:center;
     
 }
@@ -9,20 +9,29 @@
 }
 
 .menu{
-    width:55%;
-    
+    width:50%;
+    font-size:85px;
+    display:flex;
+    flex-direction:column;
 }
 
 .header{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 75px;
+    display:flex;
+    justify-content:center;
 }
 
 body{
     background-color: gray;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 25px;
+    font-size: 55px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3TkXlznvj9GCjzkn3PszgvW5LhLDcfwQF-GlCmKA6594WNgF");
+    background-repeat:no-repeat;
+    background-size:cover;
+    
 }
 #pic{
-    width:350px;
+    width:550px;
+    
 }
